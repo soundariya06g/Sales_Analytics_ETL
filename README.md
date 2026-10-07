@@ -686,7 +686,7 @@ The current project can be extended with:
 
 # 👨‍💻 Author
 
-**Rajat Goyal**
+**SOUNDARIYA GAYAKWAD**
 
 Computer Engineering Student
 
